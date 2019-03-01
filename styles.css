@@ -799,10 +799,6 @@ html {
         height: 25px;
     }
 
-    .climber-block {
-        margin-left: 30%;
-    }
-
     .all-block-climbers {
         width: 375px;
         height: 300px;
@@ -814,7 +810,7 @@ html {
 
     .climber-block {
         width: 300px;
-        height: 50px;
+        height: 45px;
         margin-left: 10%;
     }
 
@@ -1065,6 +1061,7 @@ html {
 
     .climber-block {
         margin-left: 30%;
+        height: 80px;
     }
 
     .all-block-climbers {
@@ -1119,7 +1116,7 @@ html {
 
     .climber-community-name {
         width: 551px;
-        padding-top: 13%;
+        padding-top: 7%;
         padding-left: 28%;
     }
 
@@ -1192,6 +1189,7 @@ html {
 
     .climber-block {
         margin-left: 30%;
+        height: 130px;
     }
 
     .all-block-climbers {
@@ -1307,6 +1305,7 @@ html {
 
     .climber-block {
         margin-left: 35%;
+        height: 180px;
     }
 
     .all-block-climbers {
