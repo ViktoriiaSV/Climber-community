@@ -554,12 +554,6 @@ html {
 
 @media screen and (max-width: 767px) {
 
-    .climber-community-project {
-        margin-right: 20%;
-        margin-left: 20%;
-
-    }
-
     .input-header {
         height: 47px;
     }
@@ -674,12 +668,6 @@ html {
     .icons-people > span > img {
         width: 20px;
         height: 20px;
-    }
-
-    .make-a-challenges {
-        margin-top: -4%;
-        margin-left: 62%;
-        width: 90%;
     }
 
     .mountain-icon {
